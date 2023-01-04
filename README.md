@@ -1,7 +1,4 @@
----
-title: CSS for JS
-tags: git-graft git
----
+# Workshops/Exercises for CSS for JS
 
 Contains directories that correspond to the repositories for workshops/exercises of  [Josh Comeau](https://twitter.com/JoshWComeau)'s excellent course, [CSS for JS](https://css-for-js.dev/).
 
